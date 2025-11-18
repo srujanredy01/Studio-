@@ -1,0 +1,5 @@
+{
+  "name": "LPU Studio",
+  "description": "A clone of the LPU Studio website, a one-stop resource hub for students.",
+  "requestFramePermissions": []
+}
